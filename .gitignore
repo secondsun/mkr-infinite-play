@@ -1,0 +1,10 @@
+.gradle
+/local.properties
+/.idea
+.DS_Store
+/.idea
+*.iml
+/build
+/app/google-services.json
+/.nb-gradle/
+*build/
